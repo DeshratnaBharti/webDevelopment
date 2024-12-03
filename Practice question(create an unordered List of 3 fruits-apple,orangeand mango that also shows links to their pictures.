@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>List in HTML</title>
+</head>
+
+<body>
+  <h1>List of Fruits</h1>
+  <ul>
+    <li>Apple <a href="https://static.libertyprim.com/files/varietes/pomme-akane-large.jpg?1569320193">see an Apple</a></li>
+    <li>Orange <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPkWxBq16fmxm5wTsTjW2D6dDJZtPbAZJnKtMODz2RTkGfM3riNM5urmUO9Gv0Pi346M&usqp=CAU">see an Orange</a></a></li>
+    <li>Mango <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/300px-Mangos_-_single_and_halved.jpg">see an Mango</a></li>
+   </ul> 
+</body>
+
+</html>

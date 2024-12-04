@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <table border="Black">
+        <caption>A test table with merged cells</caption>
+        <thead>
+          <tr>
+            <th rowspan="2"></th>
+            <th colspan="2">Average</th>
+            <th rowspan="2">Red eyes</th>
+          </tr>
+          <tr>
+            <th>height</th>
+            <th>weight</th>
+          </tr>
+        </thead>
+        <tbody>
+           <tr>
+            <td>Male</td>
+            <td>1.9</td>
+            <td>0.003</td>
+            <td>40%</td>
+           
+          </tr>
+          <tr>
+            <td>Female</td>
+            <td>1.7</td>
+            <Td>0.002</Td>
+            <td>43%</td>
+          </tr>
+          
+        </tbody>
+      </table>
+  </body>
+</html>

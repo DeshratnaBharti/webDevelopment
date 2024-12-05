@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <form action="/action">
+       <div>
+        <label for="Username">Username : </label>
+        <input type="text" placeholder="enter Username" id="Username"/>
+       </div>
+        <div>
+        <label for="password">password : <label/>
+       
+        <input type="password" placeholder="enter password" id="password" />
+        </div>
+        <button>submit</button>
+        <button type="button">Hello</button>
+        <button type="reset">reset</button>
+        <br/>
+      </label>
+      </form>
+  </body>
+</html>

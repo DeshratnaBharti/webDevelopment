@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <form action="/action">
+        Username
+        <input type="text" placeholder="enter Username"/>
+        <br/>
+        password
+        <input type="password" placeholder="enter Username"/>
+        <br/>
+      
+      </form>
+  </body>
+</html>

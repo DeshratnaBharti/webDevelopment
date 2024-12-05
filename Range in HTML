@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <form action="/server">
+       
+        <label for="vol">select your volume label :</label>
+        <input type="range" id="vol" min="0" max="100" name="vol"/>
+        <button>submit</button>
+      </form>
+  </body>
+</html>

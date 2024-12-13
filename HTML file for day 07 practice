@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Chapter2</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <body>
+        <h1>Between the Pages</h1>
+        <div>
+            In a small, forgotten town, Ellie, a quiet librarian, 
+            spends her days among old books and dusty shelves,
+            her world confined to the pages she loves but never quite touches. 
+            Every morning, she notices the same man, Theo,
+            a gentle artist, walking past the library window on his way to the café.
+            He always stops, his gaze lingering on the books she’s reading,
+            as if he’s silently sharing a secret with her. 
+            Their worlds orbit each other, but they’ve never exchanged words, 
+            both too shy, too afraid of disrupting the fragile balance of their solitude. 
+            One rainy afternoon, Ellie finds an old, hand-painted postcard tucked between 
+            the pages of a forgotten book—a drawing of the very town square they both walk through. 
+            It’s signed, simply, “Theo.”
+        </div>
+        <div>
+            Inspired by the postcard, Ellie begins leaving small notes inside books
+            she knows he’ll check out, each one a soft invitation to meet, 
+            yet she keeps her identity hidden. Weeks pass, and Theo starts to respond—his notes growing bolder, 
+            filled with drawings and thoughts of his own. One day, he leaves a note with a drawing of the two of them,
+            sitting together under an umbrella, surrounded by rain. Finally, 
+            they meet in the café, where neither of them speaks at first,
+            but the quiet is comfortable, a shared understanding that
+            their love had always been there—woven into the very fabric of the town,
+            the books, and the spaces between them. As they leave together, 
+            the rain slows to a gentle drizzle, and the world feels smaller,
+            yet fuller, as if they’ve always been meant to find each other.
+        </div>
+        <button>click me</button>
+    </body>
+       
+  </body>
+</html>

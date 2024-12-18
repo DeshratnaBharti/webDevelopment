@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div>
+    Name:
+     <input type="text"/>
+    </div>
+    <div>
+     Sex:
+     <input type="radio" name="Sex" id="sex"/>
+     <label for="sex">male</label>
+     <input type="radio" name="Sex" id="sex"/>
+     <label for="sex">female</label>
+     </div>
+     Country: 
+     <select name ="Country" id="Country">
+       <option value="india">India</option>
+       <option value="china">China</option>
+     </select>
+     <br>
+     Message:
+     <div>
+       <input type="text"
+     </div>
+     <br>
+     <input type="checkbox" />
+     
+     Subscribe ?
+     
+  </body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="viewport" content="width=device-width,
+
+initial-scale=1.0" />
+   <link rel="stylesheet" href="style.css" />
+
+<title>CSS Assignment</title>
+
+</head>
+
+<body>
+
+<h1 id="maintopic">CSS Practice  </hl>
+
+<h3>Let's learn about selector.</h3>
+
+<!51-- Paragraph1 -->
+
+<p>There are multiple selectors in css.</p>
+
+<!-- Paragraph2-->
+
+<p>Some of them include class selector, id selector etc.</p>
+
+<!-- Paragraph 3 -->
+
+<p>And we can also combine these too.</p>
+
+<div>
+ <h5>Did you like the practice set?</h5>
+
+<input type="checkbox" id="yes" />
+
+<label for="yes">Yes</label>
+
+<br>
+
+<button>Learn next!</button>
+
+</div>
+
+</body>
+
+</html>
+
+
+
+//css part 2
+
+
+body {
+  margin: 20px;
+}
+#maintopic{
+  color:blue;
+}
+*{
+  text-align:center;
+}
+h1,h3,h5{
+  font-family:Georgia;
+}
+p{
+  background-color:red;
+  color:green;
+}
+div button{
+   background-color:purple;
+   color:azure;
+  
+} 

@@ -1,0 +1,60 @@
+
+
+
+//html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>calculator</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+     <div id="calculator">
+       <input type="text" id="display" readonly>
+       <div class="button-container">
+       <button class="button">c</button>
+       <button class="button">1</button>
+       <button class="button">2</button>
+       <button class="button">3</button>
+       <button class="button">4</button>
+       <button class="button">5</button> 
+       <button class="button">6</button> 
+       <button class="button">7</button> 
+       <button class="button">8</button> 
+       <button class="button">9</button> 
+       <button class="button">-</button> 
+       <button class="button">*</button>  
+       <button class="button">=</button> 
+       <button class="button">+</button> 
+       <button class="button">/</button>  
+       <button class="button">.</button>  
+       </div>
+       
+     </div>
+      <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+//css 
+#calculator{
+  border:1px solid black;
+  border-radius: 5px;
+  width: 200px;
+}
+#display{
+  margin:10px;
+  width:85%;
+  font-size: 25px;
+}
+.button-container{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.button{
+  width: 45px;
+  height: 45px;
+  margin :3px;
+}
